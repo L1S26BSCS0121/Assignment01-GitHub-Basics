@@ -1,3 +1,8 @@
+//C++ program to find sum of first 50 natural numbers
+//Fahad Maqbool
+//L1S26BSCS0121
+//Assignment 01
+
 #include<iostream>
 using namespace std;
 int main()
